@@ -4,17 +4,8 @@ TechQuest is an app that generates technical interview questions for developers,
 
 ## Tech Stack
 
-Next.js
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-React
-
-Typescript
-
-HTML
-
-Tailwind CSS
-
-JavaScript
 
 GPT-3 API https://openai.com/product
 
