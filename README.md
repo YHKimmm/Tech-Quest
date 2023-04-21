@@ -25,6 +25,10 @@ GPT-3 API https://openai.com/product
   npm run dev
 ```
 
+## Main Repoitory
+
+https://github.com/LiamBCIT/TechQuest
+
 ## Demo
 
 https://techquest.vercel.app/
