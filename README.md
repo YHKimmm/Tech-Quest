@@ -25,7 +25,7 @@ GPT-3 API https://openai.com/product
   npm run dev
 ```
 
-## Main repoitory
+## Main Repository
 
 https://github.com/LiamBCIT/TechQuest
 
