@@ -27,7 +27,7 @@ GPT-3 API https://openai.com/product
 
 ## Demo
 
-https://techquest-rk1h476hj-devofhockey.vercel.app/
+https://techquest.vercel.app/
 
 ## Preview
 ![chrome_E5OofbRm30](https://user-images.githubusercontent.com/89231041/224530437-db823c90-202a-4b6b-b239-eb7a0012fd88.png)
